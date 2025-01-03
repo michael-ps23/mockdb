@@ -1,0 +1,168 @@
+{
+    "users": [
+      {
+        "id": "17140208490362vvc1",
+        "userId": "3808026e-60d8-457c-b85a-316c90102c91",
+        "email": "collinsmith@gmail.com",
+        "password": "collinsmith@gmail.com"
+      },
+      {
+        "id": "1714105187795z7uup",
+        "userId": "5ff38b6d-8332-4b83-9658-28244cc1e413",
+        "email": "test1@email.com",
+        "password": "test1@email.com"
+      }
+    ],
+    "BREAK": [
+      "******************************************************************************************************  userWithModel *******************************"
+    ],
+    "userWithModel": [  {
+        "id": "17141053091083d2vk",
+        "userId": "5ff38b6d-8332-4b83-9658-28244cc1e413",
+        "email": "test1@email.com",
+        "aiModelID": "8880555c-91b8-4747-9a15-c98a3e499d7b",
+        "aiModelName": "azure-openai-1",
+        "apiKey": "4ad58xxxxxc9d77d65",
+        "resourceName": "aoai-hackathon-warlocks-a",
+        "deploymentName": "hackathon"
+      },
+      {
+        "id": "1714106330963vaqu5",
+        "userId": "5ff38b6d-8332-4b83-9658-28244cc1e413",
+        "email": "test1@email.com",
+        "aiModelID": "2a979ab2-bf5c-4c15-9b4d-15736767c766",
+        "aiModelName": "openai",
+        "apiKey": "sk-dUvGcqxxxxxxxxxxz2o1YJAXcGHoj"
+      }],
+    "BREAK2": [
+      "*****************************************************************************************************  saveOpenAIChats  *****************************"
+    ],
+    "saveOpenAIChats": [ {
+        "id": "1714106340492-9746",
+        "userId": "5ff38b6d-8332-4b83-9658-28244cc1e413",
+        "email": "test1@email.com",
+        "aiModelID": "2a979ab2-bf5c-4c15-9b4d-15736767c766",
+        "aiModelName": "openai",
+        "chatId": "chatcmpl-9I7eNMzGqWilaLXS3KmZzc4KtmQPN",
+        "title": {
+          "titleId": "154866f8-4cb1-4b4b-a35b-3fd7af766696",
+          "title": "Cat"
+        },
+        "role": "assistant",
+        "userQuestion": "Cat",
+        "content": "A cat is a small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws. Cats are known for their agility, independence, and playful nature. They are popular pets around the world and have been domesticated for thousands of years. Cats are also known for their ability to hunt rodents and keep pests away from human homes.",
+        "timestamp": "2024-04-26T04:39:00.492Z"
+      },
+      {
+        "id": "1714110095480-6777",
+        "userId": "3e053d16-2901-409b-b7a0-25c6443e070a",
+        "email": "test3@email.com",
+        "aiModelID": "1947b988-3899-4837-b1d3-725c6d5581ea",
+        "aiModelName": "openai",
+        "chatId": "chatcmpl-9I8cvu22yAqWnqetf84O2GEMDy9VW",
+        "title": {
+          "titleId": "f433d7bd-1342-472a-918b-34676c3a13f2",
+          "title": "What is Envvironment"
+        },
+        "role": "assistant",
+        "userQuestion": "What is Envvironment",
+        "content": "I believe you meant to ask about the term \"environment.\" \n\nThe environment refers to the surroundings or conditions in which a person, animal, or plant lives or operates. This includes the physical, biological, and social factors that influence an individual or organism. It encompasses everything from the air we breathe, the water we drink, the food we eat, to the climate and natural resources around us. Protecting and preserving the environment is important for the well-being of all living things on Earth.",
+        "timestamp": "2024-04-26T05:41:35.480Z"
+      }],
+    "BREAK5": [
+      "*****************************************************************************************************  saveGeminiChats  *****************************"
+    ],
+    "saveGeminiChats": [{
+        "id": "1714108490931-2379",
+        "userId": "f65618bd-fe79-45a7-81f1-8b5757191277",
+        "email": "test2@email.com",
+        "aiModelID": "f053c047-5d17-4e5e-b226-4dd9069eb9bb",
+        "aiModelName": "gemini-openai",
+        "title": {
+          "titleId": "dd104410-791c-42f5-8364-a0052ce29cfe",
+          "title": "Flowers"
+        },
+        "role": "model",
+        "userQuestion": "Flowers",
+        "content": "Fragrant Flowers:\n\n Roses: Sweet, heady scent with hints of honey and spice\n Jasmines: Delicate, floral aroma with a hint of citrus\n Lilies: Sweet, powdery scent with a slight hint of spice\n Lavender: Calming, floral scent with a hint of herbal notes\n colors\n Carnations: Fragrant, long-lasting flowers in shades of pink, white, and red\n Gladiolus: Dramatic, sword-like flowers with vibrant colors\n Hostas: Large, leafy plants with showy flowers in shades of lavender and purple",
+        "timestamp": "2024-04-26T05:14:50.931Z"
+      },
+      {
+        "id": "1714108512069-2421",
+        "userId": "f65618bd-fe79-45a7-81f1-8b5757191277",
+        "email": "test2@email.com",
+        "aiModelID": "f053c047-5d17-4e5e-b226-4dd9069eb9bb",
+        "aiModelName": "gemini-openai",
+        "title": {
+          "titleId": "4e6c0fd4-8f6f-4f61-85bd-f589043a241b",
+          "title": "What Is OpenAI"
+        },
+        "role": "model",
+        "userQuestion": "What Is OpenAI",
+        "content": "OpenAI\n\nOpenAI is a non-profit artificial intelligence (AI) research company founded in 2015. Its mission is to advance and use AI to benefit humanity.\n\nKey Features:\n\n Research Focus: OpenAI conducts research in various areas of AI, including natural language processing, computer vision, machine learning, and reinforcement learning.\n Open-Source Approach: OpenAI believes in making its AI research and tools accessible to the public. It often releases open-source datasets, \n\nImpact:\n\nOpenAI's research has made significant contributions to the field of AI and has led to practical applications in areas such as natural language processing, computer vision, and machine learning. It is considered a leading organization in AI research and development.",
+        "timestamp": "2024-04-26T05:15:12.069Z"
+      }],
+    "BREAK3": [
+      "********************************************************************************************************  saveChats  *****************************"
+    ],
+    "saveChats": [{
+        "id": "1714105350003-8902",
+        "userId": "5ff38b6d-8332-4b83-9658-28244cc1e413",
+        "email": "test1@email.com",
+        "aiModelID": "8880555c-91b8-4747-9a15-c98a3e499d7b",
+        "aiModelName": "azure-openai-1",
+        "chatId": "chatcmpl-9I7ONKchVl0M1IZHY76gfw5Jbnbk9",
+        "title": {
+          "titleId": "37e8f34b-85ec-4227-ba5f-f34fed1b6669",
+          "title": "What is Computer?"
+        },
+        "role": "assistant",
+        "userQuestion": "What is Computer?",
+        "content": "A computer is a device that can perform various tasks by executing instructions given to it. It consists of hardware components such as a central processing unit (CPU), memory, storage, input/output devices, and a motherboard. The CPU is responsible for executing instructions and performing calculations, while memory stores data and instructions that the CPU can access quickly. Storage devices provide long-term storage for data and programs. Input devices allow users to provide data and instructions to the computer, while output devices display or produce the results of computations. Computers can be programmed to perform a wide range of tasks, from simple calculations to complex data analysis and simulations.",
+        "timestamp": "2024-04-26T04:22:30.003Z"
+      },
+      {
+        "id": "1714105373905-3440",
+        "userId": "5ff38b6d-8332-4b83-9658-28244cc1e413",
+        "email": "test1@email.com",
+        "aiModelID": "8880555c-91b8-4747-9a15-c98a3e499d7b",
+        "aiModelName": "azure-openai-1",
+        "chatId": "chatcmpl-9I7OnuNCtlUkQSNOvQrLTvlBXzhfy",
+        "title": {
+          "titleId": "3056b9cf-b895-49f4-8187-8cb16f0a94e2",
+          "title": "Fullform of ML"
+        },
+        "role": "assistant",
+        "userQuestion": "Fullform of ML",
+        "content": "The full form of ML is Machine Learning.",
+        "timestamp": "2024-04-26T04:22:53.905Z"
+      } ],
+    "BREAK4": [
+      "********************************************************************************************************  feedbacks  *****************************"
+    ],
+    "openaiFeedbacks": [],
+    "geminiFeedbacks": [],
+    "azureOpenaiFeedbacks": [
+      {
+        "id": "1714108091943-6123",
+        "userId": "f65618bd-fe79-45a7-81f1-8b5757191277",
+        "email": "test2@email.com",
+        "aiModelName": "azure-openai-1",
+        "userQuestion": "Dog",
+        "gptResponseData": "A dog is a domesticated animal that is part of the Canidae family. It is known for its loyalty and companionship to humans. Dogs come in various breeds, sizes, and colors, and have been bred for different purposes such as hunting, herding, and guarding. They have keen senses, including a strong sense of smell and hearing. Dogs are social animals that form strong bonds with their owners and often require regular exercise, training, and mental stimulation. They are also known for their ability to learn and perform a wide range of tasks and activities, making them popular as working dogs, therapy animals, and pets.",
+        "userFeedback": "Not brief enough"
+      },
+      {
+        "id": "1714109513999-4208",
+        "userId": "3e053d16-2901-409b-b7a0-25c6443e070a",
+        "email": "test3@email.com",
+        "aiModelName": "azure-openai",
+        "userQuestion": "What is Ai?",
+        "gptResponseData": "AI, or Artificial Intelligence, refers to the simulation of human intelligence in machines that are programmed to think and learn like humans. AI involves the development of computer systems or software that can perform tasks that would typically require human intelligence, such as speech recognition, decision-making, problem-solving, and learning from experience. AI systems can analyze vast amounts of data, recognize patterns, and make predictions or recommendations based on the information. AI technology can be categorized into various types, including machine learning, natural language processing, computer vision, and robotics.",
+        "userFeedback": "Not good"
+      }
+    ],
+    "break5": [
+      "**********************************************************************************************************  next  *****************************"
+    ]
+  }
